@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\amor\Desktop\MyApplication\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\amor\Desktop\MyApplication\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from C:\Users\amor\Desktop\MyApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\amor\Desktop\MyApplication\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\amor\Desktop\MyApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\amor\Desktop\MyApplication\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\amor\Desktop\MyApplication\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\amor\Desktop\MyApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\amor\Desktop\MyApplication\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\amor\Desktop\MyApplication\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\amor\.android\build-cache\0db3d791a7c4a35060ea7bcfe072424386c13a06\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\amor\.android\build-cache\ee7c6d1f8d4e9aa186b2e32b0a22b083f982c62e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\amor\.android\build-cache\d80950e05e46b2a58e0a8a2021ffb55312ac48fa\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\amor\.android\build-cache\73ac672cef61f5acd3c0e87de9f60ba730f9a017\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\amor\.android\build-cache\ed44938cf98936b8c46eb0e64f49c006a082096a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\amor\.android\build-cache\d2d309147d674638390cb081cbd7c7198143b2da\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\amor\.android\build-cache\a8f2ef58ca592d8a4fd9fe523323ca6779a92c9a\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\amor\.android\build-cache\842adb67f1a3ca9883b6cf95ae0dd3282c27f699\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\amor\.android\build-cache\7c3f0a3100aaec34d2a13f70ab8fc62af7b2aa9b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\amor\.android\build-cache\70877e3bdd4179ef87911087c764b9acc05fcf8e\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\amor\Desktop\MyApplication\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from C:\Users\amor\Desktop\MyApplication\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from C:\Users\amor\Desktop\MyApplication\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from C:\Users\amor\Desktop\MyApplication\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\amor\Desktop\MyApplication\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from C:\Users\amor\Desktop\MyApplication\app\src\main\AndroidManifest.xml:11:9-40
+activity#amr.com.myapplication.MainActivity
+ADDED from C:\Users\amor\Desktop\MyApplication\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\amor\Desktop\MyApplication\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\amor\Desktop\MyApplication\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\amor\Desktop\MyApplication\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\amor\Desktop\MyApplication\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\amor\Desktop\MyApplication\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\amor\Desktop\MyApplication\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\amor\Desktop\MyApplication\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\amor\.android\build-cache\0db3d791a7c4a35060ea7bcfe072424386c13a06\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\amor\.android\build-cache\ee7c6d1f8d4e9aa186b2e32b0a22b083f982c62e\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\amor\.android\build-cache\d80950e05e46b2a58e0a8a2021ffb55312ac48fa\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\amor\.android\build-cache\73ac672cef61f5acd3c0e87de9f60ba730f9a017\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\amor\.android\build-cache\ed44938cf98936b8c46eb0e64f49c006a082096a\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\amor\.android\build-cache\d2d309147d674638390cb081cbd7c7198143b2da\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\amor\.android\build-cache\a8f2ef58ca592d8a4fd9fe523323ca6779a92c9a\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\amor\.android\build-cache\842adb67f1a3ca9883b6cf95ae0dd3282c27f699\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\amor\.android\build-cache\7c3f0a3100aaec34d2a13f70ab8fc62af7b2aa9b\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\amor\.android\build-cache\70877e3bdd4179ef87911087c764b9acc05fcf8e\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\amor\.android\build-cache\0db3d791a7c4a35060ea7bcfe072424386c13a06\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\amor\Desktop\MyApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\amor\Desktop\MyApplication\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\amor\Desktop\MyApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\amor\Desktop\MyApplication\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\amor\.android\build-cache\0db3d791a7c4a35060ea7bcfe072424386c13a06\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\amor\.android\build-cache\ee7c6d1f8d4e9aa186b2e32b0a22b083f982c62e\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\amor\.android\build-cache\d80950e05e46b2a58e0a8a2021ffb55312ac48fa\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\amor\.android\build-cache\73ac672cef61f5acd3c0e87de9f60ba730f9a017\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\amor\.android\build-cache\ed44938cf98936b8c46eb0e64f49c006a082096a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\amor\.android\build-cache\d2d309147d674638390cb081cbd7c7198143b2da\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\amor\.android\build-cache\a8f2ef58ca592d8a4fd9fe523323ca6779a92c9a\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\amor\.android\build-cache\842adb67f1a3ca9883b6cf95ae0dd3282c27f699\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\amor\.android\build-cache\7c3f0a3100aaec34d2a13f70ab8fc62af7b2aa9b\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\amor\.android\build-cache\0db3d791a7c4a35060ea7bcfe072424386c13a06\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\amor\.android\build-cache\0db3d791a7c4a35060ea7bcfe072424386c13a06\output\AndroidManifest.xml:26:9-47
